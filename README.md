@@ -86,6 +86,7 @@ The long-term success of pvlib-python requires substantial community support.
 
 
 Citing
+## By Mudassir Alam
 ======
 
 Many of the contributors to pvlib python work in institutions where
